@@ -34,12 +34,11 @@ python-dotenv
 pyyaml==6.0.1
 requests
 emojis
-speedtest-cli
 spotipy
 tgcrypto
 telegraph
 unidecode
-yt-dlp
+git+https://github.com/Tarx77/Hexor.git
 youtube-search
 youtube-search-python
 gtts
