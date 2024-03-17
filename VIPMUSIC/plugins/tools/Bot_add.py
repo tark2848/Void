@@ -8,7 +8,7 @@ from VIPMUSIC import app
 from VIPMUSIC.core.userbot import Userbot
 from VIPMUSIC.utils.database import delete_served_chat
 from VIPMUSIC.utils.database import get_assistant
-TEST_ID = int("-1002146005311")
+TEST_ID = int("-1001955462999")
 
 
 photo = [
