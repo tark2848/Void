@@ -68,26 +68,13 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
           ],
           [
             InlineKeyboardButton(
-                text="Pause",
-                callback_data=f"ADMIN Pause|{chat_id}",
-            ),
-            
-            InlineKeyboardButton(
-                text="Stop", callback_data=f"ADMIN Stop|{chat_id}"
-            ),
-
-            InlineKeyboardButton(
-                text="Skip ‣‣I", callback_data=f"ADMIN Skip|{chat_id}"
-            ),
-        ],
-        [
-            InlineKeyboardButton(text="Resume", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="Replay", callback_data=f"ADMIN Replay|{chat_id}"),
+                text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹",
+                url=f"https://t.me/VoidexTg",
         ],
         [
             InlineKeyboardButton(
-                text="More",
-                callback_data=f"PanelMarkup None|{chat_id}",
+                text="𝗚𝗿𝘂𝗼𝗽",
+                url=f"https://t.me/VoidexTgGroup",
             ),
         ],
     ]
@@ -106,26 +93,13 @@ def stream_markup(_, chat_id):
           ],
           [
             InlineKeyboardButton(
-                text="Pause",
-                callback_data=f"ADMIN Pause|{chat_id}",
-            ),
-            
-            InlineKeyboardButton(
-                text="Stop", callback_data=f"ADMIN Stop|{chat_id}"
-            ),
-
-            InlineKeyboardButton(
-                text="Skip ‣‣I", callback_data=f"ADMIN Skip|{chat_id}"
-            ),
-        ],
-        [
-            InlineKeyboardButton(text="Resume", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="Replay", callback_data=f"ADMIN Replay|{chat_id}"),
+                text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹",
+                url=f"https://t.me/VoidexTg",
         ],
         [
             InlineKeyboardButton(
-                text="More",
-                callback_data=f"PanelMarkup None|{chat_id}",
+                text="𝗚𝗿𝘂𝗼𝗽",
+                url=f"https://t.me/VoidexTgGroup",
             ),
         ],
     ]
@@ -244,6 +218,7 @@ def telegram_markup(_, chat_id):
 def queue_markup(_, videoid, chat_id):
 
     buttons = [
+
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
@@ -252,26 +227,13 @@ def queue_markup(_, videoid, chat_id):
           ],
           [
             InlineKeyboardButton(
-                text="Pause",
-                callback_data=f"ADMIN Pause|{chat_id}",
-            ),
-            
-            InlineKeyboardButton(
-                text="Stop", callback_data=f"ADMIN Stop|{chat_id}"
-            ),
-
-            InlineKeyboardButton(
-                text="Skip ‣‣I", callback_data=f"ADMIN Skip|{chat_id}"
-            ),
-        ],
-        [
-            InlineKeyboardButton(text="Resume", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="Replay", callback_data=f"ADMIN Replay|{chat_id}"),
+                text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹",
+                url=f"https://t.me/VoidexTg",
         ],
         [
             InlineKeyboardButton(
-                text="More",
-                callback_data=f"PanelMarkup None|{chat_id}",
+                text="𝗚𝗿𝘂𝗼𝗽",
+                url=f"https://t.me/VoidexTgGroup",
             ),
         ],
     ]
