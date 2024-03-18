@@ -209,7 +209,7 @@ str_2 : "➻ ᴠᴀʟɪᴅ sᴛʀᴇᴀᴍ ᴠᴇʀɪғɪᴇᴅ.\n\nᴘʀᴏᴄ�
 str_3 : "ғᴀɪʟᴇᴅ ᴛᴏ sᴛʀᴇᴀᴍ ʏᴏᴜᴛᴜʙᴇ ʟɪᴠᴇ sᴛʀᴇᴀᴍ, ɴᴏ ʟɪᴠᴇ ꜰᴏʀᴍᴀᴛ ꜰᴏᴜɴᴅ."
 
 ping_1 : "{0} ɪs ᴘɪɴɢɪɴɢ..."
-ping_2 : "{1}\n\n🏓 ᴩᴏɴɢ : {0}ᴍs..\n\n➻ sʏsᴛᴇᴍ sᴛᴀᴛs :\n\n↬ ᴜᴩᴛɪᴍᴇ : {2}\n↬ ʀᴀᴍ : {3}\n↬ ᴄᴩᴜ : {4}\n↬ ᴅɪsᴋ : {5}\n↬ ᴩʏ-ᴛɢᴄᴀʟʟs : {6}ᴍs\n\n🥀ʙʏ » ᴛʜᴇ_ᴠɪᴘ_ʙᴏʏ ♡︎"
+ping_2 : "{1}\n\n🏓 ᴩᴏɴɢ : {0}ᴍs..\n\n➻ sʏsᴛᴇᴍ sᴛᴀᴛs :\n\n↬ ᴜᴩᴛɪᴍᴇ : {2}\n↬ ʀᴀᴍ : {3}\n↬ ᴄᴩᴜ : {4}\n↬ ᴅɪsᴋ : {5}\n↬ ᴩʏ-ᴛɢᴄᴀʟʟs : {6}ᴍs"
 
 queue_1 : "» ғᴇᴛᴄʜɪɴɢ ǫᴜᴇᴜᴇ...\n\nᴘʟᴇᴀsᴇ ᴡᴀɪᴛ..."
 queue_2 : "» ǫᴜᴇᴜᴇ ᴇᴍᴘᴛʏ."
@@ -228,11 +228,11 @@ CLOSE_BUTTON  : "Close"
 CLOSEMENU_BUTTON  : "Close"
 BACK_BUTTON : "Back"
 
-S_B_1 : "Add In Your Group"
+S_B_1 : "𝗔𝗱𝗱 𝗜𝗻 𝗚𝗿𝗼𝘂𝗽"
 S_B_2 : "Group"
-S_B_3 : "Add In Your Group"
+S_B_3 : "𝗔𝗱𝗱 𝗜𝗻 𝗚𝗿𝗼𝘂𝗽"
 S_B_4 : "Feature"
-S_B_5 : "Add In Your Group"
+S_B_5 : "𝗔𝗱𝗱 𝗜𝗻 𝗚𝗿𝗼𝘂𝗽"
 S_B_6 : "More"
 S_B_7 : "Repo"
 S_B_8 : "YouTube"
