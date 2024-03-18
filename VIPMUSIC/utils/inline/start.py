@@ -12,7 +12,7 @@ def start_panel(_):
             ),
         ],
         [
-            InlineKeyboardButton(text="Help, callback_data="settings_back_helper"),
+            InlineKeyboardButton(text="Help", callback_data="settings_back_helper"),
             InlineKeyboardButton(
                 text="Set", callback_data="settings_helper"
             ),
