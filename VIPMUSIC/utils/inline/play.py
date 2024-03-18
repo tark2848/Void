@@ -70,6 +70,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             InlineKeyboardButton(
                 text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹",
                 url=f"https://t.me/VoidexTg",
+            ),
         ],
         [
             InlineKeyboardButton(
@@ -95,6 +96,7 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(
                 text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹",
                 url=f"https://t.me/VoidexTg",
+            ),
         ],
         [
             InlineKeyboardButton(
@@ -229,6 +231,7 @@ def queue_markup(_, videoid, chat_id):
             InlineKeyboardButton(
                 text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹",
                 url=f"https://t.me/VoidexTg",
+            ),
         ],
         [
             InlineKeyboardButton(
