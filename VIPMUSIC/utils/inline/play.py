@@ -60,12 +60,6 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         
     buttons  = [
 
-        [
-            InlineKeyboardButton(
-                text=_["S_B_5"],
-                url=f"https://t.me/{app.username}?startgroup=true",
-            ),
-          ],
           [
             InlineKeyboardButton(
                 text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹",
@@ -86,12 +80,6 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
 def stream_markup(_, chat_id):
     buttons  = [
 
-        [
-            InlineKeyboardButton(
-                text=_["S_B_5"],
-                url=f"https://t.me/{app.username}?startgroup=true",
-            ),
-          ],
           [
             InlineKeyboardButton(
                 text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹",
@@ -221,12 +209,6 @@ def queue_markup(_, videoid, chat_id):
 
     buttons = [
 
-        [
-            InlineKeyboardButton(
-                text=_["S_B_5"],
-                url=f"https://t.me/{app.username}?startgroup=true",
-            ),
-          ],
           [
             InlineKeyboardButton(
                 text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹",

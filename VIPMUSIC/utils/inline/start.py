@@ -33,11 +33,11 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="𝐆𝚁𝙾𝚄𝙿", url=config.SUPPORT_CHAT),
-            InlineKeyboardButton(text="𝐌ᴏʀᴇ", url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Brazzersnotfree",),
+            InlineKeyboardButton(text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=config.SUPPORT_CHANNEL),
         ],
         [
-            InlineKeyboardButton(text="Feature", callback_data="settings_back_helper")
+            InlineKeyboardButton(text="𝗖𝗼𝗺𝗺𝗮𝗻𝗱", callback_data="settings_back_helper")
         ],
     ]
     return buttons
