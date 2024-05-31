@@ -38,7 +38,7 @@ spotipy
 tgcrypto
 telegraph
 unidecode
-git+https://github.com/Tarx77/Hexor.git
+git+https://github.com/tark2848/yt-core.git
 youtube-search
 youtube-search-python
 gtts
